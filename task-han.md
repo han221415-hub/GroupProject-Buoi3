@@ -1,4 +1,1 @@
-Hoàn thành bài thực hành Git do nhóm thực hiện.
-
-
-
+Công việc nhóm thực hành Git do A và B cùng phụ trách.
