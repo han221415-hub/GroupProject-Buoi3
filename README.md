@@ -9,3 +9,11 @@ Dòng này được Quỳnh chỉnh sửa.
 
 
  ebc365b (Quỳnh chỉnh sửa README.md)
+
+Dòng này được Quỳnh cập nhật lần 2 để tạo conflict.
+
+
+
+Dòng này được Quỳnh chỉnh sửa.
+
+ 1c24ddc (Quỳnh cập nhật README.md lần 2 để tạo conflict)
