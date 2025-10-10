@@ -5,8 +5,6 @@ HEAD
 # Đây là dòng sửa bởi A
 # Đây là dòng sửa bởi B
 
-=======
-
 Đây là file README gốc
 
 Dòng này được Quỳnh chỉnh sửa.
@@ -14,4 +12,15 @@ Dòng này được Quỳnh chỉnh sửa.
 
 
  ebc365b (Quỳnh chỉnh sửa README.md)
+HEAD
 54ab0a9 (Quỳnh chỉnh sửa README.md)
+
+
+Dòng này được Quỳnh cập nhật lần 2 để tạo conflict.
+
+
+
+Dòng này được Quỳnh chỉnh sửa.
+
+ 1c24ddc (Quỳnh cập nhật README.md lần 2 để tạo conflict)
+6900cb1 (Quỳnh cập nhật README.md lần 2 để tạo conflict)
